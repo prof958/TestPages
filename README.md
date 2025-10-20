@@ -83,9 +83,9 @@ http://localhost:8000
 - Sonuçlar ve hedef bilgileri
 
 ### Fiyat Paketleri
-- **Başlangıç**: ₺800/ay - Haftada 2 seans
-- **Premium**: ₺1400/ay - Haftada 3 seans (En Popüler)
-- **Elite**: ₺2000/ay - Haftada 4 seans
+- **1 Ay**: ₺1200/ay - Haftada 3 seans (12 seans)
+- **2 Ay**: ₺1100/ay - Haftada 3 seans (24 seans toplam) (En Popüler)
+- **3 Ay**: ₺1000/ay - Haftada 4 seans (48 seans toplam)
 
 ### İletişim Bölümü
 - İletişim formu
