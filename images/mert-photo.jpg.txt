@@ -1,0 +1,3 @@
+/* This file serves as a placeholder for the trainer's photo.
+   In a real implementation, you would replace this with the actual image file.
+   The photo shows Mert Kırıkkaya in gym attire, demonstrating his professional fitness expertise. */

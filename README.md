@@ -95,9 +95,10 @@ http://localhost:8000
 
 ## Renk Paleti
 
-- **Birincil Renk**: #e74c3c (Kırmızı)
-- **İkincil Renk**: #2c3e50 (Koyu Lacivert)
-- **Vurgu Renkleri**: #27ae60 (Yeşil), #f39c12 (Turuncu)
+- **Birincil Renk**: #39ff14 (Neon Yeşil)
+- **İkincil Renk**: #000000 (Siyah)
+- **Arka Plan Rengi**: #ffffff (Beyaz)
+- **Vurgu Renkleri**: #2dd10f (Koyu Neon Yeşil), #333333 (Koyu Gri)
 - **Neutral Renkler**: #f8f9fa (Açık Gri), #666 (Orta Gri)
 
 ## Font ve Tipografi
