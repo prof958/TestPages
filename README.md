@@ -32,9 +32,21 @@ Please see: **[PROJECT_ANALYSIS.md](./PROJECT_ANALYSIS.md)**
 
 ```
 TestPages/
-├── README.md              # This file
-└── PROJECT_ANALYSIS.md    # Comprehensive project analysis
+├── README.md              # Project overview (start here!)
+├── SUMMARY.md             # Executive summary
+├── PROJECT_ANALYSIS.md    # Comprehensive analysis (13 sections)
+├── ROADMAP.md             # 7-phase development plan
+├── CONTRIBUTING.md        # Contribution guidelines
+└── .gitignore             # Git ignore patterns
 ```
+
+### 📖 Documentation Guide
+
+- **🚀 New here?** Start with this README
+- **👤 Stakeholder/Owner?** Read [SUMMARY.md](./SUMMARY.md) for executive overview
+- **💻 Developer?** Check [PROJECT_ANALYSIS.md](./PROJECT_ANALYSIS.md) for technical details
+- **📅 Planning?** Review [ROADMAP.md](./ROADMAP.md) for timeline and phases
+- **🤝 Contributing?** See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines
 
 ## 🤝 Contributing
 
